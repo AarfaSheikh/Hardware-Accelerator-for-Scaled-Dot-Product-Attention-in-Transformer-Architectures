@@ -1,6 +1,5 @@
 # Hardware-Accelerator-for-Scaled-Dot-Product-Attention-in-Transformer-Architectures
 
-This document contains the instructions and commands to setup this directory. In the folder tree, several ```Makefile```s are used to 
 
 ### Description
 Transformers:
