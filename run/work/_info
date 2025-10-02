@@ -1,0 +1,1122 @@
+m255
+K4
+z2
+Z0 !s12c _opt
+Z1 !s99 nomlopt
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+Z2 !s12c _opt1
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R0
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R0
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R0
+R1
+Z3 !s12c _opt2
+R1
+R3
+R1
+R2
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R2
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R2
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R2
+R1
+R0
+R1
+R0
+R1
+!s11f vlog 2024.2 2024.05, May 20 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z4 d/mnt/ncsudrive/a/asheikh7/564_Project/ece564_transformer_self_attention_19Nov/run
+T_opt
+!s110 1732420647
+VF1_L[iRJk_b<hf3olbgS_1
+Z5 04 6 4 work tb_top fast 0
+=1-000ae431a4f1-6742a424-9e0e5-2222a7
+R1
+Z6 !s12f OEM100
+Z7 !s12b OEM100
+Z8 !s124 OEM100
+Z9 !s135 nogc
+Z10 o-quiet -auto_acc_if_foreign -work work +acc
+Z11 tCvgOpt 0
+n@_opt
+Z12 OE;O;2024.2;79
+R4
+T_opt1
+!s110 1732087580
+V@OzS@clB<IDT7XOB<AKZ11
+R5
+=1-000ae431a4f1-673d8f1b-14550-16bc65
+R1
+R6
+R7
+R8
+R9
+R10
+R11
+n@_opt1
+R12
+R4
+T_opt2
+!s110 1732071108
+VJZ;m:fLFhMiZdcV@[m]j`2
+R5
+=1-000ae431a4f1-673d4ec3-b6c29-61508
+R1
+R6
+R7
+R8
+R9
+R10
+R11
+n@_opt2
+R12
+R4
+vDW_fp_add
+Z13 2/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_dp4.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_exp.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_ln.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_dp2.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_div_DG.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_exp2.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_sincos.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_recip_DG.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_invsqrt.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_sum4.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_i2flt.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_addsub_DG.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_mac.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_ifp_conv.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_cmp_DG.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_cmp.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_recip.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_sum3_DG.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_sub_DG.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_sqrt.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_add.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_square.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_div_seq.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_add_DG.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_addsub.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_mult_DG.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_div.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_sum3.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_sub.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_mult.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_dp3.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_flt2i.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_mac_DG.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_log2.v
+Z14 !s110 1733780530
+!i10b 1
+!s100 n@:mWCkjS1DPSnXl3SFTm2
+IONNO=G[[Wa3aOJNSS9b^?0
+R4
+Z15 w1660782088
+8/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_add.v
+F/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_add.v
+!i122 196
+L0 64 71
+Z16 VDg1SIo80bB@j0V0VzS_@n1
+Z17 OE;L;2024.2;79
+r1
+!s85 0
+31
+Z18 !s108 1733780528.000000
+Z19 !s107 /mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_sqrt_function.inc|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_log2.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_mac_DG.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_flt2i.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_dp3.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_mult.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_sub.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_sum3.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_div.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_mult_DG.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_addsub.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_add_DG.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_div_seq.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_square.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_add.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_sqrt.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_sub_DG.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_sum3_DG.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_recip.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_cmp.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_cmp_DG.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_ifp_conv.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_mac.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_addsub_DG.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_i2flt.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_sum4.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_invsqrt.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_recip_DG.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_sincos.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_exp2.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_div_DG.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_dp2.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_ln.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_exp.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_dp4.v|
+Z20 !s90 /mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_dp4.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_exp.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_ln.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_dp2.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_div_DG.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_exp2.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_sincos.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_recip_DG.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_invsqrt.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_sum4.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_i2flt.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_addsub_DG.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_mac.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_ifp_conv.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_cmp_DG.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_cmp.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_recip.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_sum3_DG.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_sub_DG.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_sqrt.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_add.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_square.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_div_seq.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_add_DG.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_addsub.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_mult_DG.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_div.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_sum3.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_sub.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_mult.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_dp3.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_flt2i.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_mac_DG.v|/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_log2.v|
+!i113 0
+Z21 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R11
+n@d@w_fp_add
+vDW_fp_add_DG
+R13
+R14
+!i10b 1
+!s100 Q1l<VIgCA]l`8XYW70BFY2
+IDn=TiVjm@ddEK>MhJzhfn2
+R4
+Z22 w1660782087
+8/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_add_DG.v
+F/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_add_DG.v
+!i122 196
+L0 68 73
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R11
+n@d@w_fp_add_@d@g
+vDW_fp_addsub
+R13
+R14
+!i10b 1
+!s100 MgHDFU@joGeQL]HzE;6j`1
+I6gbS^mF[m9O=9`XBNoH]12
+R4
+Z23 w1660782060
+8/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_addsub.v
+F/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_addsub.v
+!i122 196
+L0 86 451
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R11
+n@d@w_fp_addsub
+vDW_fp_addsub_DG
+R13
+Z24 !s110 1733780529
+!i10b 1
+!s100 l4`k7l[bUgWld]YbikkVE3
+IdKa4AFGf?3gH9@Bb01`I;0
+R4
+R22
+8/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_addsub_DG.v
+F/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_addsub_DG.v
+!i122 196
+L0 84 454
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R11
+n@d@w_fp_addsub_@d@g
+vDW_fp_cmp
+R13
+R24
+!i10b 1
+!s100 g]hzY;Z=i<n@F_Rk5nYgo3
+IADf;JR1<ei>;T8ga:XSWa0
+R4
+R23
+8/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_cmp.v
+F/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_cmp.v
+!i122 196
+L0 75 234
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R11
+n@d@w_fp_cmp
+vDW_fp_cmp_DG
+R13
+R24
+!i10b 1
+!s100 NNIk2nZY^]Y0Nn`5DXHIl3
+IUbW>^c<:;YQ8J9RM]<2o71
+R4
+R22
+8/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_cmp_DG.v
+F/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_cmp_DG.v
+!i122 196
+L0 80 243
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R11
+n@d@w_fp_cmp_@d@g
+vDW_fp_div
+R13
+R14
+!i10b 1
+!s100 lF^;@lQcRS`fLIi;MMjA=3
+I2lCY^_KVWCf8jmgC[g8YT0
+R4
+R15
+8/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_div.v
+F/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_div.v
+!i122 196
+L0 97 618
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R11
+n@d@w_fp_div
+vDW_fp_div_DG
+R13
+R24
+!i10b 1
+!s100 ZO>mF>W_TP<:Bm[2[bU2z0
+I3lF79W=dOZFihZ`ij<ma[0
+R4
+R22
+8/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_div_DG.v
+F/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_div_DG.v
+!i122 196
+L0 75 84
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R11
+n@d@w_fp_div_@d@g
+vDW_fp_div_seq
+R13
+R14
+!i10b 1
+!s100 A65YmaHaQ>1F9C7]XD5lM1
+I[iAh2XDZ1Ce9i[_DCf4oH3
+R4
+w1660782204
+8/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_div_seq.v
+F/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_div_seq.v
+!i122 196
+L0 114 649
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R11
+n@d@w_fp_div_seq
+vDW_fp_dp2
+R13
+R24
+!i10b 1
+!s100 Bnn5VN;`igLhf?0D[:XnT3
+Ig^QTT8Q]fOCQ:jJ^=8[`[2
+R4
+R15
+8/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_dp2.v
+F/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_dp2.v
+!i122 196
+L0 92 588
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R11
+n@d@w_fp_dp2
+vDW_fp_dp3
+R13
+R14
+!i10b 1
+!s100 3KUQDaXGMgb[i<^>[6UT`1
+IglWAfaKB`?;n8KZeMfOf?1
+R4
+R15
+8/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_dp3.v
+F/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_dp3.v
+!i122 196
+L0 89 795
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R11
+n@d@w_fp_dp3
+vDW_fp_dp4
+R13
+R24
+!i10b 1
+!s100 1j]1PlO;QG^iiUbzf7ho_1
+IgXj2PNK4lDKzfUA>gl8jQ0
+R4
+R22
+8/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_dp4.v
+F/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_dp4.v
+!i122 196
+L0 104 1043
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R11
+n@d@w_fp_dp4
+vDW_fp_exp
+R13
+R24
+!i10b 1
+!s100 7COI[GlJ`n^Q=fak32N9?2
+IU;:5LOLE:GUB188YT78X40
+R4
+R22
+8/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_exp.v
+F/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_exp.v
+!i122 196
+L0 72 382
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R11
+n@d@w_fp_exp
+vDW_fp_exp2
+R13
+R24
+!i10b 1
+!s100 BLM5b8^HY;KWR^c0E:OeS2
+IG>j32B07>MaUcA6L;QkSD2
+R4
+R22
+8/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_exp2.v
+F/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_exp2.v
+!i122 196
+L0 77 362
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R11
+n@d@w_fp_exp2
+vDW_fp_flt2i
+R13
+R14
+!i10b 1
+!s100 nMnTfS9bjfb_@c85jTGKg2
+Il5Ej17PUM]1YogTZGJhJL1
+R4
+R15
+8/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_flt2i.v
+F/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_flt2i.v
+!i122 196
+L0 67 381
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R11
+n@d@w_fp_flt2i
+vDW_fp_i2flt
+R13
+R24
+!i10b 1
+!s100 hY=5c[<X4:NEPPW1LRRE51
+Ik<39omef@[BB6TdLjBD4l1
+R4
+R15
+8/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_i2flt.v
+F/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_i2flt.v
+!i122 196
+L0 59 284
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R11
+n@d@w_fp_i2flt
+vDW_fp_ifp_conv
+R13
+R24
+!i10b 1
+!s100 <cDTSdI;]_VGe24GSmWPj1
+I=lh1hPfL@ogdzJK;_17?b2
+R4
+R15
+8/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_ifp_conv.v
+F/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_ifp_conv.v
+!i122 196
+L0 47 193
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R11
+n@d@w_fp_ifp_conv
+vDW_fp_invsqrt
+R13
+R24
+!i10b 1
+!s100 [zlPPl8RfUY8Kf=z:0Q[31
+ImbfD@DY9aS>CUKBDg3a[V2
+R4
+R22
+8/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_invsqrt.v
+F/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_invsqrt.v
+!i122 196
+L0 66 315
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R11
+n@d@w_fp_invsqrt
+vDW_fp_ln
+R13
+R24
+!i10b 1
+!s100 T2Sk9[^iKY=Ec:6odDG522
+Io;6GaE6]VVQ@aTFSR[Ne52
+R4
+R22
+8/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_ln.v
+F/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_ln.v
+!i122 196
+L0 88 304
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R11
+n@d@w_fp_ln
+vDW_fp_log2
+R13
+R14
+!i10b 1
+!s100 Om23K[I2hzKAE2AgD72go3
+I`Oln_^35e5b7ggdnH:R0G3
+R4
+R22
+8/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_log2.v
+F/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_log2.v
+!i122 196
+L0 81 311
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R11
+n@d@w_fp_log2
+vDW_fp_mac
+R13
+R24
+!i10b 1
+!s100 Yb:d=RRCY?AHL^aHDhSaW2
+IdG2lOdEJ9Y^E=:VQGBAZ]2
+R4
+R22
+8/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_mac.v
+F/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_mac.v
+!i122 196
+L0 69 82
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R11
+n@d@w_fp_mac
+vDW_fp_mac_DG
+R13
+R14
+!i10b 1
+!s100 BND=SS_XAf@0S]>h@]BWm1
+I@IUz@ZzjnEQ:JfFE>jInY2
+R4
+R22
+8/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_mac_DG.v
+F/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_mac_DG.v
+!i122 196
+L0 79 87
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R11
+n@d@w_fp_mac_@d@g
+vDW_fp_mult
+R13
+R14
+!i10b 1
+!s100 lH<mDMncAI9U:M=geEdO`0
+I43joeHN]n95W2d>O3Zk:>3
+R4
+R23
+8/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_mult.v
+F/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_mult.v
+!i122 196
+L0 99 494
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R11
+n@d@w_fp_mult
+vDW_fp_mult_DG
+R13
+R14
+!i10b 1
+!s100 ]JWWAe7gaH8m^a=4edkTA2
+IA51hmEUbFGdT=?6zGC9RP0
+R4
+R22
+8/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_mult_DG.v
+F/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_mult_DG.v
+!i122 196
+L0 94 491
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R11
+n@d@w_fp_mult_@d@g
+vDW_fp_recip
+R13
+R24
+!i10b 1
+!s100 adI77bz2XOLO>O7CA17hM3
+INjF_aWGbC25IoJDhm5`9G2
+R4
+R15
+8/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_recip.v
+F/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_recip.v
+!i122 196
+L0 75 491
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R11
+n@d@w_fp_recip
+vDW_fp_recip_DG
+R13
+R24
+!i10b 1
+!s100 gnzDl14<dgnO7dVgcjTSE0
+IW@n6X:U8@?22;3O`@`mi;3
+R4
+R22
+8/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_recip_DG.v
+F/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_recip_DG.v
+!i122 196
+L0 68 76
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R11
+n@d@w_fp_recip_@d@g
+vDW_fp_sincos
+R13
+R24
+!i10b 1
+!s100 jmWd7H=9lR;;5a<zPe0N73
+INefLgFPWJmcS]>7Y31fVN3
+R4
+R22
+8/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_sincos.v
+F/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_sincos.v
+!i122 196
+L0 92 371
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R11
+n@d@w_fp_sincos
+vDW_fp_sqrt
+R13
+R24
+!i10b 1
+!s100 IhiZaZI<P7aNX_[m^6UP70
+I9D>`4U8GTPgzGYL<aQiS?2
+R4
+w1660782089
+8/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_sqrt.v
+F/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_sqrt.v
+F/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_sqrt_function.inc
+!i122 196
+L0 72 479
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R11
+n@d@w_fp_sqrt
+vDW_fp_square
+R13
+R14
+!i10b 1
+!s100 IBYYjl[X^IRAh_Jok1[0X2
+I;]aMOKI6k3zYlAWiKK3g[0
+R4
+R22
+8/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_square.v
+F/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_square.v
+!i122 196
+L0 68 427
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R11
+n@d@w_fp_square
+vDW_fp_sub
+R13
+R14
+!i10b 1
+!s100 RF?2U^YbJC<Y`RZT01Jz03
+IMggz54LZ@iIXnLC1XOec92
+R4
+R15
+8/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_sub.v
+F/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_sub.v
+!i122 196
+L0 61 70
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R11
+n@d@w_fp_sub
+vDW_fp_sub_DG
+R13
+R24
+!i10b 1
+!s100 zdAI`0^@f80k;Vi1G`Y@H1
+IDH5XKoQTNL2KN0]@zF?LT1
+R4
+R22
+8/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_sub_DG.v
+F/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_sub_DG.v
+!i122 196
+L0 66 73
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R11
+n@d@w_fp_sub_@d@g
+vDW_fp_sum3
+R13
+R14
+!i10b 1
+!s100 :^9_aN3Td;:80RQg^Zj780
+I1ld?9AVoJoP:9e2X;S8>g1
+R4
+R15
+8/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_sum3.v
+F/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_sum3.v
+!i122 196
+L0 62 626
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R11
+n@d@w_fp_sum3
+vDW_fp_sum3_DG
+R13
+R24
+!i10b 1
+!s100 [c?ZEJNgHKXK4i<=mj7C^3
+I>GQZHXnP;RgNCAmg^T7e71
+R4
+R22
+8/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_sum3_DG.v
+F/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_sum3_DG.v
+!i122 196
+L0 63 77
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R11
+n@d@w_fp_sum3_@d@g
+vDW_fp_sum4
+R13
+R24
+!i10b 1
+!s100 >;2]@6ZFdDclZLWFzlbX]0
+IMT3ali1hEGl[j`T536SQA3
+R4
+R15
+8/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_sum4.v
+F/mnt/apps/public/COE/synopsys_apps/syn/T-2022.03-SP4/dw/sim_ver/DW_fp_sum4.v
+!i122 196
+L0 69 890
+R16
+R17
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 0
+R21
+R11
+n@d@w_fp_sum4
+vMyDesign
+Z25 2../testbench/testbench.sv|../testbench/sram.sv|../rtl/dut.sv
+Z26 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1733780539
+!i10b 1
+!s100 [I<N[8a<db:M^YzOR6Ub30
+I>acC@I2Y^I`3:9H1BN7^_3
+S1
+R4
+w1732243859
+8../rtl/dut.sv
+F../rtl/dut.sv
+!i122 198
+L0 6 1023
+R16
+R17
+r1
+!s85 0
+31
+Z27 !s108 1733780538.000000
+!s107 ../rtl/common/common.vh|../rtl/dut.sv|../testbench/sram.sv|../testbench/testbench.sv|
+Z28 !s90 -sv|+incdir+../rtl/common|../testbench/testbench.sv|../testbench/sram.sv|../rtl/dut.sv|
+!i113 0
+Z29 o-sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z30 !s92 -sv +incdir+../rtl/common -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R11
+n@my@design
+vsram
+R25
+R26
+Z31 !s110 1733780538
+!i10b 1
+!s100 HZj>F?X4LWDI6ePnOV_:42
+I;^>J[_:OnD2[Q4VoXOG6;2
+S1
+R4
+w1732062050
+8../testbench/sram.sv
+F../testbench/sram.sv
+!i122 198
+L0 5 105
+R16
+R17
+r1
+!s85 0
+31
+R27
+Z32 !s107 ../rtl/common/common.vh|../rtl/dut.sv|../testbench/sram.sv|../testbench/testbench.sv|
+R28
+!i113 0
+R29
+R30
+R11
+vtb_top
+R25
+R26
+R31
+!i10b 1
+!s100 k?[YYblREUREd9:FfKQJC3
+IA<jeaz1YIFjA5V7lNf@f=0
+S1
+R4
+w1732062051
+8../testbench/testbench.sv
+F../testbench/testbench.sv
+!i122 198
+L0 21 433
+R16
+R17
+r1
+!s85 0
+31
+R27
+R32
+R28
+!i113 0
+R29
+R30
+R11
